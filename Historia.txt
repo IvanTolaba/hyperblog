@@ -4,10 +4,12 @@ Freddy Vega tiene 32 años y nació en Colombia
 
 Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
 
-Mañana nos enfocaremos en su vida laboral
 Experimento 1
 
-master 2
+Experimento 2
 
-experimento 2
-experimentando con stash
+Master 1
+
+Master 2
+
+Mañana nos enfocaremos en su vida laboral
